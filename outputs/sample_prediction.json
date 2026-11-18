@@ -1,0 +1,16 @@
+{
+  "input": {
+    "expected_customers": 470.0,
+    "day_of_week": 2.0,
+    "weekend": 0.0,
+    "temperature_c": 30.0,
+    "special_event": 0.0,
+    "holiday": 0.0,
+    "previous_day_consumption": 425.0
+  },
+  "predictions": {
+    "Linear Regression": 424.2,
+    "Random Forest Regression": 409.5
+  },
+  "note": "Illustrative estimates from the reproducible synthetic demonstration."
+}

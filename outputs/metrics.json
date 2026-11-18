@@ -1,0 +1,14 @@
+[
+  {
+    "Model":"Linear Regression",
+    "MAE (meals)":14.439,
+    "RMSE (meals)":18.588,
+    "R2":0.9122
+  },
+  {
+    "Model":"Random Forest Regression",
+    "MAE (meals)":15.732,
+    "RMSE (meals)":19.814,
+    "R2":0.9002
+  }
+]
